@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on My first mobile application, Zim-Travel
 
 
-- 🌱 I’m currently learning Mobile Application development with Flutter and also front-end developmen with React.js 
+- 🌱 I’m currently learning Mobile Application development with Flutter and also front-end development with React.js 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
