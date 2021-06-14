@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My first mobile application, Zim-Travel
+- 🔭 I’m currently working on a mobile application, Zim-Travel which is a travel guide app for tourists visiting Zimbabwe.
 
 
 - 🌱 I’m currently learning Mobile Application development with Flutter and also front-end development with React.js 
